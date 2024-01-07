@@ -8,6 +8,10 @@
   },
   "keywords": [],
   "author": "",
+  "readme": "README.md",
+  "repository": {
+    "url": "https://github.com/dorfo-dev/socket-client.git"
+  },
   "license": "ISC",
   "dependencies": {
     "socket.io-client": "^4.7.3"
