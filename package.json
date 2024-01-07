@@ -1,6 +1,6 @@
 {
   "name": "@dorfo/socket-client",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "wrap to fixed socket.io-client version",
   "main": "index.js",
   "scripts": {
